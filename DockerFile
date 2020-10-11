@@ -1,0 +1,2 @@
+FROM Similimodo/website
+ADD . /var/www/html
